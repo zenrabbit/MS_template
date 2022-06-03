@@ -1,8 +1,8 @@
 ---
 title: "Untitled"
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
 header-includes:
 - \usepackage{lineno}
 - \linenumbers
