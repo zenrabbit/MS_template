@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+output:
+  pdf_document: default
+  word_document: default
+header-includes:
+- \usepackage{lineno}
+- \linenumbers
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Testing
+A short test.  
+with some text.  
+that you can paste in here.  

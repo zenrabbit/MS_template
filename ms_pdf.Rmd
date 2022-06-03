@@ -1,0 +1,16 @@
+---
+title: "ms_pdf"
+output: pdf_document
+header-includes:
+   - \usepackage{lineno}
+   - \linenumbers
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Testing
+A short test.  
+with some text.  
+that you can paste in here.  
