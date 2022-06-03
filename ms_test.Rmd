@@ -16,3 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 A short test.  
 with some text.  
 that you can paste in here.  
+A short test.  
+with some text.  
+that you can paste in here.
