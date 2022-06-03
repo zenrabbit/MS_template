@@ -1,9 +1,9 @@
 ---
 title: "ms"
 output:
-  pdf_document: default
   word_document:
     reference_docx: style.docx
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -12,3 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## testing
 hello world.  
+next line.  
+again.  
+hello.  
